@@ -1,0 +1,18 @@
+#area{
+    padding-top: 10%;
+    padding-left: 03%;
+}
+.container{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background: #8d8d8d ;
+     border-radius: 30px;
+     box-shadow: 0px 10px 40px #00000056;
+}
+h1{
+    padding-left: 40%;
+}
